@@ -711,11 +711,13 @@ img {
     padding: 20px 0px;
     flex-wrap: wrap;
     align-items: center;
+    overflow-x: auto;
 }
 
 .footer-left {
     order: 1;
     padding-right: 100px;
+    overflow-x: auto;
 }
 
 .footer-right {
